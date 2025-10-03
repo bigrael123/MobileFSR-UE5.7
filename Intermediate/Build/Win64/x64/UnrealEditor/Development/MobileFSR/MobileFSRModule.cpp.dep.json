@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\bigra\\documents\\unreal projects\\eth 5.7\\plugins\\mobilefsr\\source\\mobilefsr\\private\\mobilefsrmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\bigra\\documents\\unreal projects\\eth 5.7\\plugins\\mobilefsr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mobilefsr\\definitions.mobilefsr.h",
+            "c:\\users\\bigra\\documents\\unreal projects\\eth 5.7\\plugins\\mobilefsr\\source\\mobilefsr\\public\\mobilefsrmodule.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "c:\\users\\bigra\\documents\\unreal projects\\eth 5.7\\plugins\\mobilefsr\\source\\mobilefsr\\public\\mobilefsrviewextension.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\engine\\public\\sceneviewextension.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\engine\\public\\sceneviewextensioncontext.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\sceneviewextensioncontext.generated.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\engine\\public\\scenetexturesconfig.h",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\rendercore\\public\\gbufferinfo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

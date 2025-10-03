@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\bigra\\documents\\unreal projects\\eth 5.7\\plugins\\mobilefsr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mobilefsr\\module.mobilefsr.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\bigra\\documents\\unreal projects\\eth 5.7\\plugins\\mobilefsr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mobilefsr\\definitions.mobilefsr.h",
+            "c:\\users\\bigra\\documents\\unreal projects\\eth 5.7\\plugins\\mobilefsr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mobilefsr\\permoduleinline.gen.cpp",
+            "c:\\unreal engine\\ue_5.7-dev\\repo\\unrealengine\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

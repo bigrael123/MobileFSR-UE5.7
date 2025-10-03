@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MobileFSR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/bigra/Documents/Unreal Projects/ETH 5.7/Plugins/MobileFSR/Intermediate/Build/Win64/x64/UnrealEditor/Development/MobileFSR/Module.MobileFSR.cpp.obj"
+"C:/Users/bigra/Documents/Unreal Projects/ETH 5.7/Plugins/MobileFSR/Intermediate/Build/Win64/x64/UnrealEditor/Development/MobileFSR/MobileFSRModule.cpp.obj"
+"C:/Users/bigra/Documents/Unreal Projects/ETH 5.7/Plugins/MobileFSR/Intermediate/Build/Win64/x64/UnrealEditor/Development/MobileFSR/MobileFSRUpscaler.cpp.obj"
+"C:/Users/bigra/Documents/Unreal Projects/ETH 5.7/Plugins/MobileFSR/Intermediate/Build/Win64/x64/UnrealEditor/Development/MobileFSR/MobileFSRViewExtension.cpp.obj"
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Default.rc2.res"
+/OUT:"C:/Users/bigra/Documents/Unreal Projects/ETH 5.7/Plugins/MobileFSR/Intermediate/Build/Win64/x64/UnrealEditor/Development/MobileFSR/UnrealEditor-MobileFSR.lib"
